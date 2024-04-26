@@ -5,4 +5,4 @@
 ```
 ```md
 ![alt text](img/diagram-sequence.svg "sequence-1")
-```md
+```
