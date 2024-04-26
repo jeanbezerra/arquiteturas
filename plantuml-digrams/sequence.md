@@ -21,3 +21,5 @@ User -> Sales: ProcessOrder
   deactivate Sales
 @enduml
 ```
+
+![alt text](plantuml-diagrams/img/diagram-sequence.svg "sequence-1")
