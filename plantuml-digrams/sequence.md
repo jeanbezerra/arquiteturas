@@ -4,7 +4,7 @@
 
 ```sh
 @startuml
-!theme materia-outline
+!theme cerulean-outline
 actor User
 User -> Sales: ProcessOrder
   activate Sales #FFBBBB
