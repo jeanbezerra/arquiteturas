@@ -22,4 +22,4 @@ User -> Sales: ProcessOrder
 @enduml
 ```
 
-![alt text](plantuml-diagrams/img/diagram-sequence.svg "sequence-1")
+![alt text](img/diagram-sequence.svg "sequence-1")
